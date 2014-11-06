@@ -1,2 +1,0 @@
-c:\users\serhii\documents\visual studio 2013\Projects\MinesweeperWPF\MinesweeperWPF\bin\Debug\MinesweeperWPF.exe.config
-E:\Projects\MinesweeperWPF\MinesweeperWPF\bin\Debug\MinesweeperWPF.exe.config
